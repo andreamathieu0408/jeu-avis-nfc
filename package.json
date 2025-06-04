@@ -1,5 +1,5 @@
 {
-  "name": "ton-projet",
+  "name": "jeu-avis-nfc",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
@@ -13,6 +13,9 @@
     "vite": "^4.0.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "^4.0.0"
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2"
   }
 }
